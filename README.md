@@ -34,6 +34,8 @@ Understand discount patterns and their relation to product ratings.
   Potential Revenue = actual_price × rating_count
 
   Combined Score = (rating × rating_count)
+  
+![Image](https://github.com/Omotoso-Bukola/Amazon-case-study/blob/main/My%20pivot%20Table%20screenshot.png)
 
 
  - Pivot Tables: To aggregate metrics by category and rating
