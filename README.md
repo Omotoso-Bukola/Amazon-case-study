@@ -20,7 +20,8 @@ Understand discount patterns and their relation to product ratings.
 - Tools Used:
   Microsoft Excel
 
-  
+  ![Image](https://github.com/Omotoso-Bukola/Amazon-case-study/blob/main/Screenshot%202025-07-04%20210631.png
+  )
 
 - Techniques Applied:
 
