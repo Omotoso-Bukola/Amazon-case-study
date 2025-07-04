@@ -20,9 +20,6 @@ Understand discount patterns and their relation to product ratings.
 - Tools Used:
   Microsoft Excel
 
-  ![Image](https://github.com/Omotoso-Bukola/Amazon-case-study/blob/main/Screenshot%202025-07-04%20210631.png
-  )
-
 - Techniques Applied:
 
 - Data Cleaning: Removing blanks, formatting columns
@@ -35,7 +32,10 @@ Understand discount patterns and their relation to product ratings.
 
   Combined Score = (rating × rating_count)
   
-![Image](https://github.com/Omotoso-Bukola/Amazon-case-study/blob/main/My%20pivot%20Table%20screenshot.png)
+   ![Image](https://github.com/Omotoso-Bukola/Amazon-case-study/blob/main/Screenshot%202025-07-04%20210631.png
+  )
+
+   ![Image](https://github.com/Omotoso-Bukola/Amazon-case-study/blob/main/My%20pivot%20Table%20screenshot.png)
 
 
  - Pivot Tables: To aggregate metrics by category and rating
@@ -65,7 +65,6 @@ Understand discount patterns and their relation to product ratings.
 12. How many products have fewer than 1,000 reviews? 
 13. Which categories have products with the highest discounts? 
 14. Identify the top 5 products in terms of rating and number of reviews combined. 
-
 
 
 ## Dashboard Overview
