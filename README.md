@@ -32,8 +32,13 @@ Understand discount patterns and their relation to product ratings.
 
   Combined Score = (rating × rating_count)
   
+   ![Image](https://github.com/Omotoso-Bukola/Amazon-case-study/blob/main/My%20excel%20screenshot.png)
+
+  
+  
    ![Image](https://github.com/Omotoso-Bukola/Amazon-case-study/blob/main/Screenshot%202025-07-04%20210631.png
   )
+
 
    ![Image](https://github.com/Omotoso-Bukola/Amazon-case-study/blob/main/My%20pivot%20Table%20screenshot.png)
 
