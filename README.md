@@ -73,4 +73,4 @@ This report presents a data analysis project conducted on an Amazon product data
 This analysis successfully uncovered critical insights from the Amazon product dataset using Excel. The combination of pivot tables, calculated fields, and a clean dashboard layout provides a strong foundation for data-driven decisions for product performance evaluation.
 
 # THE FILE FOR THIS PROJECT IS ATTACHED BELOW!
-[Download](https://github.com/Omotoso-Bukola/Amazon-case-study/blob/main/MY%20EXCEL%20PROJECT%2CAMAZON.xlsx)
+[Download](https://github.com/Omotoso-Bukola/Amazon-case-study/blob/main/MY%20AMAZON%20PROJECT%2CDSA.xlsx)
